@@ -1,5 +1,5 @@
 /* Christopher Clausen
-    3/26/2022
+    5/26/2022
     Module 2 Assignment
     This program calculates the energy needed to heat water. */
 import java.util.Scanner;
